@@ -1,0 +1,6 @@
+@EatsyAPI_HostAddress = http://localhost:5294
+
+GET {{EatsyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
